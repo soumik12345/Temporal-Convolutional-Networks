@@ -7,6 +7,13 @@ from tensorflow.keras import layers
 class LayerNorm(tf.keras.layers.Layer):
 
     def __init__(self, hidden_size):
+        """
+        Layer Normalisation Operation
+
+        :param hidden_size: Hidden Size.
+
+        :returns: None.
+        """
         super(LayerNorm, self).__init__()
         self.hidden_size = hidden_size
 

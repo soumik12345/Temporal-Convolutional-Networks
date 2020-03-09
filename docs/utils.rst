@@ -1,7 +1,7 @@
-test module
-===========
+utils module
+============
 
-.. automodule:: test
+.. automodule:: utils
    :members:
    :undoc-members:
    :show-inheritance:

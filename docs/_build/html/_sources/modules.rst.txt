@@ -1,7 +1,8 @@
-tcn
+src
 ===
 
 .. toctree::
    :maxdepth: 4
 
-   src
+   blocks
+   utils
