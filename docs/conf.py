@@ -18,8 +18,8 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'Temporal Convolutional Network'
-copyright = '2020, Geekyrakshit'
-author = 'Geekyrakshit'
+copyright = '2020, Soumik Rakshit'
+author = 'Soumik Rakshit'
 
 
 # -- General configuration ---------------------------------------------------
